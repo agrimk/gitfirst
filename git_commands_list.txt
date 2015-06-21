@@ -1,0 +1,13 @@
+git clone https://github.com/agrimk/gitfirst.git // to clone
+cd gitfirst/
+ls
+git log
+git init
+subl geeks.txt // create file
+git add geeks.txt // add to staging area or use git add -u
+git status // check status
+git commit -m "geeks questions list for placement" // commit changes
+git status 
+git remote add origin https://github.com/agrimk/gitfirst.git
+git push -u origin master
+git status
