@@ -334,7 +334,7 @@ Reversal algorithm for array rotation
 	Equilibrium index of an array
 	Linked List vs Array
 	Which sorting algorithm makes minimum number of memory writes?
-Turn an image by 90 degree
+	Turn an image by 90 degree
 		Next Greater Element
 	Check if array elements are consecutive | Added Method 3
 	Find the smallest missing number
